@@ -1,0 +1,19 @@
+{
+  "name": "form-serialize",
+  "repo": "Ntran013/form-serialize",
+  "description": "Serialize form to query string",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yields/submittable": "*",
+    "component/value": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
